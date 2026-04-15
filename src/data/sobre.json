@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o FASHION4FUN"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Nós somos Renata e Sabrina, duas mulheres corajosas e apaixonadas pela moda. Cada uma com suas peculiaridades, estamos aqui para compartilhar nosso amor por roupas, cores e todo o vasto universo da moda."
+  },
+  "content": "A Fashion4Fun é um espaço criado especialmente para compartilhar nossa paixão pela moda e beleza. Aqui, buscamos inspirar você a expressar sua individualidade através do estilo. Com uma abordagem autêntica e criativa, mostramos nossa perspectiva sobre o que há de mais atual e interessante no mundo da moda.",
+  "mission": "Nossa missão é empoderar mulheres a se expressarem através da moda, criando um espaço acolhedor e inspirador.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

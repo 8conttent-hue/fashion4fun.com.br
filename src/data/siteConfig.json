@@ -1,0 +1,53 @@
+{
+  "name": "FASHION4FUN",
+  "slug": "fashion4fun.com.br",
+  "description": "Sobre Nós Somos duas. Duas amantes de moda, claro. Duas mulheres corajosas e afrente do seu tempo também, assim como todos buscando um sonho de fazer algo que ame, com propósito. Duas pessoas que amam roupa, se expressar, cores e tudo que o mundo da moda oferece. Mostramos nossa perspectiva sobre diversos assuntos nesse site, pelo nosso blog. Confira alguns.   Nosso Time Sobre Nós Renata Fernandes Fotografia Influenciada por um pai fotografo, venho desde garota nutrindo meu amor por fotografia, que quando mais velha se assumiu um amor maior ainda por moda. Me formei na Puc-Rio no final de 2018. Sou muito grata de desde então por estar trabalhando ao lado de uma pessoa incrível que nem a Sabrina Sobre Nós Sabrina Trindade Designer de Moda Formada pela Unirio em 2016 vim buscando no meu mercado me tornar uma profissional realizada, através do blog fashion 4 fun venho conseguindo criar amigos e clientes apaixonados por moda.",
+  "url": "https://fashion4fun.com.br",
+  "niche": "Moda e Beleza",
+  "keywords": "Sobre Nos Somos duas Duas amantes de moda claro Duas mulheres corajosas",
+  "email": "contato@fashion4fun.com.br",
+  "palette": "teal",
+  "colors": {
+    "primary": "#0d9488",
+    "accent": "#0f766e",
+    "dark": "#042f2e"
+  },
+  "headerContrast": "light",
+  "font": "inter",
+  "fontFamily": "'Inter', sans-serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap",
+  "components": {
+    "header": "Header-F",
+    "hero": "Hero-H",
+    "features": "Features-F",
+    "about": "About-G",
+    "posts": "Posts-A",
+    "footer": "Footer-G",
+    "sobre": "Sobre-A",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}

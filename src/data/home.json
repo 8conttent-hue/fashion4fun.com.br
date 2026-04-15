@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "title": "FASHION4FUN — Fashion4Fun - A Moda que Fala com Você",
+    "description": "Duas amantes de moda, compartilhando paixões e criatividade."
+  },
+  "hero": {
+    "title": "Fashion4Fun - A Moda que Fala com Você",
+    "subtitle": "Duas amantes de moda, compartilhando paixões e criatividade.",
+    "btnText": "Conheça Nossa História",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que fazemos",
+    "items": [
+      {
+        "icon": "✨",
+        "title": "Estilo Único",
+        "desc": "Exploramos a moda de uma forma única e autêntica, guiando você em cada passo do seu estilo pessoal."
+      },
+      {
+        "icon": "💬",
+        "title": "Comunidade",
+        "desc": "Criamos uma rede de pessoas apaixonadas por moda, onde todos podem se expressar e compartilhar experiências."
+      },
+      {
+        "icon": "📸",
+        "title": "Conteúdo Inspirador",
+        "desc": "Oferecemos artigos e dicas que inspiram e instigam sua criatividade na hora de se vestir."
+      }
+    ]
+  },
+  "about": {
+    "title": "Quem Somos",
+    "desc": "Nós somos Renata e Sabrina, duas mulheres corajosas e apaixonadas pela moda. Cada uma com suas peculiaridades, estamos aqui para compartilhar nosso amor por roupas, cores e todo o vasto universo da moda.",
+    "stats": [
+      {
+        "value": "2",
+        "label": "Fundadoras"
+      },
+      {
+        "value": "5",
+        "label": "Anos de experiência"
+      },
+      {
+        "value": "100+",
+        "label": "Artigos inspiradores"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}
